@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*Matthew Austin
+ * 1/31/2017
+ * File: Genie.cs
+ * Purpose: returns the name of the phone "Genie"
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*Matthew Austin
+ * 1/31/2017
+ * File: iPhoneFactory.cs
+ * Purpose: abstract class for the different factories
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

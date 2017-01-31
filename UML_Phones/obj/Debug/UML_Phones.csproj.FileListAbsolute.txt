@@ -1,2 +1,5 @@
 G:\CSCI352\UML_Phones\UML_Phones\bin\Debug\UML_Phones.exe.config
 G:\CSCI352\UML_Phones\UML_Phones\obj\Debug\UML_Phones.csprojResolveAssemblyReference.cache
+C:\Users\matgaust\Source\Repos\UML_Phone\UML_Phones\bin\Debug\UML_Phones.exe.config
+C:\Users\matgaust\Source\Repos\UML_Phone\UML_Phones\obj\Debug\UML_Phones.exe
+C:\Users\matgaust\Source\Repos\UML_Phone\UML_Phones\obj\Debug\UML_Phones.pdb

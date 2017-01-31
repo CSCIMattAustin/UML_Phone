@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*Matthew Austin
+ * 1/31/2017
+ * File: NokiaFactory.cs
+ * Purpose: factory for the Nokia phones
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
